@@ -5,7 +5,7 @@ Feature: Title of your feature
   @tag1
   Scenario: Title of your scenario
     Given I wantion
-    And some other precondition
+    And Test Frm HEM
     When I complete action
     And some other action
     And yet another action
